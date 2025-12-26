@@ -1,6 +1,6 @@
-#Privacy Policy
+##Privacy Policy
 
-#Last updated: 12/26/2025
+##Last updated: 12/26/2025
 
 Psalmist of the Lord ("the App") is provided as a free application.
 This app is intended to support users in reading and enjoying hymns.
